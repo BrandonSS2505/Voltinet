@@ -1,2 +1,0 @@
-# Voltinet
-practica servidores
